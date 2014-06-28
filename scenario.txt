@@ -1,0 +1,35 @@
+Scénario
+========
+
+“Lusi4lle“,
+célèbre cybersultane des darknets,
+est à la recherche d'une équipe d'élite
+>   pour protéger les cybercultures
+>   contre les espions
+<<      des Oligarchies diplomatiques
+&&      et des Empires boursiers.
+
+....Un bot IRC l'a informé de l'existence
+    de votre camp
+    ..
+    ..
+    Pouvez-vous l'assister ???
+
+=> Montrez que vous êtes à la hauteur
+<   d'une telle tâche,
+
+*   formez des équipes d'élite
+    >   les  ██╗██████╗ ██████╗ ███████╗
+            ███║╚════██╗╚════██╗╚════██║
+            ╚██║ █████╔╝ █████╔╝    ██╔╝
+             ██║ ╚═══██╗ ╚═══██╗   ██╔╝
+             ██║██████╔╝██████╔╝   ██║
+             ╚═╝╚═════╝ ╚═════╝    ╚═╝
+    - misez sur des équipes variées
+
+*   infiltrez-vous dans les serveurs de “Lusi4lle“
+    >   et extrayez ses données secrètes
+
+*   faites gagner à votre équipe le +++ de points !
+
+
