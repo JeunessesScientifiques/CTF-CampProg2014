@@ -1,0 +1,22 @@
+body{
+	background-color: orange;
+}
+#form{
+	background-color: navy;
+	float: right;
+	padding: 7px;
+	margin: 5px;
+}
+.blanc{
+	color:white;
+}
+
+#header{
+	position : absolute;
+	top: 0px;
+	left: 30px;
+}
+pre{
+	line-height: 5px;
+	font-size: 8px;
+}
