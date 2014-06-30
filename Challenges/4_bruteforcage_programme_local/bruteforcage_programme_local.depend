@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1404054442 source:/Users/antonin/Documents/github/CTF-CampProg2014/Challenges/bruteforcage_programme_local/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
