@@ -27,7 +27,6 @@ catch(Exception $e)
 						echo($donnees["PASSWORD"]);
 					}else{
 						echo("echec de l'authentification !");
-						echo($donnees["PASSWORD"]);
 					}
 					echo("<br/>Test");
 					$reponse->closeCursor();
