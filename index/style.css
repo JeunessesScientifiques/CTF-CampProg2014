@@ -2,3 +2,19 @@ body{
 	background-color: #003388;
 	color: white;
 }
+.box{
+	background-color: #0035A0;
+	box-shadow: 8px 8px 12px #aaa; 
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+    width: 12em;
+    display: block;
+    vertical-align: middle;
+}
+a{
+	text-decoration:  : none;
+}
+#scores{
+	text-align: right;
+}
